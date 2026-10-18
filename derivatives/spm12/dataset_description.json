@@ -1,0 +1,12 @@
+{
+  "Name": "SPM12 Preprocessing, 1st-Level GLM, and 2nd-Level Group Derivatives",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "SPM12",
+      "Version": "7771",
+      "Description": "Realignment (6-parameter rigid body), slice-timing correction (TR=2.0s, 36 descending slices, ref=slice 18), coregistration, MNI normalization (2x2x2 mm), 8 mm FWHM smoothing, 1st-level GLM (5-condition & Parametric Modulation), and 2nd-level group analyses."
+    }
+  ]
+}
