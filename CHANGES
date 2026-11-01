@@ -1,2 +1,2 @@
 1.0.0 2026-11-01
-  - Initial BIDS release including raw fMRI (300 volumes per run after discarding 5 initial dummy volumes), defaced T1w anatomical images, block- and trial-level behavioral events, and EyeLink 1000 Hz eye-tracking sourcedata for 23 participants.
+  - Create new
