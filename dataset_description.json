@@ -4,11 +4,11 @@
   "DatasetType": "raw",
   "License": "CC0",
   "Authors": [
-    "Yoonho Kim",
-    "Wako Yoshida"
+    "Junhui Kim",
+    "Takako Yoshida"
   ],
   "EthicsApprovals": [
     "Tokyo Institute of Technology Ethics Review Committee for Epidemiological Research (approval no. 2022386)"
   ],
-  "HowToAcknowledge": "Please cite the associated sense of agency gaze-contingent fMRI study by Kim and Yoshida."
+  "HowToAcknowledge": "Please cite the associated sense of agency gaze-contingent fMRI study by Junhui Kim and Takako Yoshida."
 }
