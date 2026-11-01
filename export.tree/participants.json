@@ -1,0 +1,34 @@
+{
+  "age": {
+    "Description": "Age of the participant at the time of scanning",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Biological sex of the participant",
+    "Levels": {
+      "F": "female",
+      "M": "male"
+    }
+  },
+  "degree": {
+    "Description": "Academic programme of the participant at Tokyo Institute of Technology",
+    "Levels": {
+      "B.S.": "Undergraduate student",
+      "M.S.": "Master's programme student"
+    }
+  },
+  "tracked_eye": {
+    "Description": "Monocular eye tracked by the EyeLink 1000 Plus system during fMRI",
+    "Levels": {
+      "Left": "Left eye",
+      "Right": "Right eye",
+      "Right/Left": "Session 1 right eye, subsequent sessions left eye"
+    }
+  },
+  "preliminary_sequence": {
+    "Description": "4-digit order of condition sequence templates (1 to 4) across the 4 preliminary dark-room sessions"
+  },
+  "fmri_sequence": {
+    "Description": "4-digit order of condition sequence templates (1 to 4) across the 4 main fMRI runs (run-01 to run-04)"
+  }
+}

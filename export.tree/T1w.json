@@ -1,0 +1,19 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma",
+  "SoftwareVersions": "syngo MR E11",
+  "MagneticFieldStrength": 3,
+  "ReceiveCoilName": "32Ch_Head",
+  "PulseSequenceType": "MPRAGE",
+  "ScanningSequence": "GR\\IR",
+  "SequenceVariant": "MP\\OSP",
+  "SequenceName": "tfl3d1_16ns",
+  "SeriesDescription": "t1_mprage_sag_p2",
+  "MRAcquisitionType": "3D",
+  "RepetitionTime": 2.3,
+  "EchoTime": 0.00298,
+  "InversionTime": 0.9,
+  "FlipAngle": 9,
+  "SliceThickness": 1.0,
+  "PixelBandwidth": 240
+}
